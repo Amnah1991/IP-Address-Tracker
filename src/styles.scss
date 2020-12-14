@@ -1,1 +1,12 @@
 /* You can add global styles to this file, and also import other style files */
+
+$gray: hsl(0, 0%, 59%);
+$dark-gray:hsl(0, 0%, 17%);
+*,
+html,
+body{
+    margin: 0;
+    padding: 0;
+    font-family:'Rubik', sans-serif;;
+    font-size: 18px;
+}
